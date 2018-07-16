@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export GRPC_VERSION="0.13.1"
+export GRPC_HASH=80893242c1ee929d19e6bec5dc19a1515cd8dd81
