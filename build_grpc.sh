@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source /tmp/protobuf.version
+source /tmp/grpc.version
 GRPC_INSTALLED_VERSION=`pkg-config --exists grpc && pkg-config --modversion grpc`
 
 rm -rf ~/tempdir
